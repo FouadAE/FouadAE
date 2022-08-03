@@ -24,7 +24,7 @@
 
 <p  align="center">
 
-<img src="https://www.brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" height="25"/>
+<img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-25.jpg" height="25"/>
   </p>
   
 <p  align="center">
