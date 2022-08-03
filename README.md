@@ -24,7 +24,7 @@
 
 <p  align="center">
 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="25"/>
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="25"/>
   </p>
   
 <p  align="center">
