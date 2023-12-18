@@ -7,8 +7,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Data Science and business intelligence at University of science and technologies Marrakech.
+- 🤔 &nbsp; Data scientist and Full Stack Developer.
+- 🎓 &nbsp; Data Science and business intelligence Graduate from  Faculty of science and technologies Marrakech.
 
 
 <br>
